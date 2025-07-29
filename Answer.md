@@ -97,6 +97,9 @@ See 'snap info docker' for additional versions.
 3. Настройте выполнение скрипта раз в 1 минуту через cron, crontab или systemctl timer. Придумайте способ не светить логин/пароль в git!!
 4. Предоставьте скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup"
 
+###Ответ:### [Ссылка на script/conf/crone](https://github.com/Andromeles/Lesson-1.2/tree/main/scripts%20answer%205)
+            ![Картинка](https://github.com/Andromeles/Lesson-1.2/blob/main/Lesson%201_2/Screenshot_5.png)
+
 ## Задача 6
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
