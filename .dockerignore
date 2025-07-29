@@ -6,5 +6,4 @@ nginx
 Dockerfile
 LICENSE
 proxy.yaml
-requirements.txt
 schema.pdf
