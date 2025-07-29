@@ -1,3 +1,10 @@
 .git
+.gitignore
+*.md
+haproxy
+nginx
 Dockerfile
-README.md
+LICENSE
+proxy.yaml
+requirements.txt
+schema.pdf
