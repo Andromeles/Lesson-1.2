@@ -37,7 +37,7 @@ services:
       - DB_NAME=${MYSQL_DATABASE}
     depends_on:
       mysql:
-        condition: service_healthy
+        condition: service_start
     ports:
       - "8090:5000"
   
