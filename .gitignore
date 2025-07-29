@@ -2,4 +2,7 @@ Lesson 1_2
 haproxy
 nginx
 *.md
-
+Dockerfile
+LICENSE
+proxy.yaml
+*.pdf
